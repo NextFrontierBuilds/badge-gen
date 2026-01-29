@@ -1,0 +1,41 @@
+{
+  "name": "badge-gen",
+  "version": "1.0.0",
+  "description": "Generate README badges for npm packages. One command, instant shields.io badges for version, downloads, license, and node version.",
+  "main": "cli.js",
+  "bin": {
+    "badge-gen": "./cli.js"
+  },
+  "scripts": {
+    "test": "node cli.js ai-pdf-builder"
+  },
+  "keywords": [
+    "badge",
+    "badges",
+    "shields",
+    "shields.io",
+    "npm",
+    "readme",
+    "markdown",
+    "generator",
+    "cli",
+    "devtools",
+    "developer-tools",
+    "documentation",
+    "github",
+    "open-source"
+  ],
+  "author": "tytaninc7",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NextFrontierBuilds/badge-gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NextFrontierBuilds/badge-gen/issues"
+  },
+  "homepage": "https://github.com/NextFrontierBuilds/badge-gen#readme",
+  "engines": {
+    "node": ">=14"
+  }
+}
