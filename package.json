@@ -1,10 +1,10 @@
 {
-  "name": "badge-gen",
+  "name": "npm-badge-maker",
   "version": "1.0.0",
   "description": "Generate README badges for npm packages. One command, instant shields.io badges for version, downloads, license, and node version.",
   "main": "cli.js",
   "bin": {
-    "badge-gen": "./cli.js"
+    "npm-badge-maker": "./cli.js"
   },
   "scripts": {
     "test": "node cli.js ai-pdf-builder"
